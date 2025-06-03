@@ -3,7 +3,7 @@ Date: 10/29/24
 Purpose: Simple Weather Tracker with JavaFX
  */
 
-/* notes for aryaa:
+/* notes for me:
 requirements: temp class, average temp, high & low, recs, introduction, instructions, prompt user, summary, exit, GUI, error handling
 CAN'T FORGET PLAYLAB
  */
